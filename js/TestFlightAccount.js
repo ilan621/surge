@@ -18,7 +18,8 @@ Surge4 添加脚本：
 *********************************
 
 Surge模块地址：
-https://raw.githubusercontent.com/NobyDa/Script/master/Surge/Module/TestFlightAccount.sgmodule
+
+TestFlightAccount
 
 
 *********************************
