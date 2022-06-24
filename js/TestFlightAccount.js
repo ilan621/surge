@@ -26,7 +26,8 @@ QuantumultX 添加脚本：
 *********************************
 
 QuantumultX重写引用地址：
-https://raw.githubusercontent.com/NobyDa/Script/master/TestFlight/TestFlightAccount.js
+
+https://raw.githubusercontent.com/ilan621/surge/main/js/TestFlightAccount.js
 
 注：以上引用地址需要打开并使用KOP-XIAO资源解析器，如没有解析器请使用脚本配置：
 
